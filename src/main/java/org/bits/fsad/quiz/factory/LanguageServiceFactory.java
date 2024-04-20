@@ -22,7 +22,7 @@ public class LanguageServiceFactory {
         switch (language.toLowerCase()) {
             case "en":
                 return englishQuestionService;
-            case "spa":
+            case "es":
                 return spanishQuestionService;
             case "fr":
                 return frenchQuestionService;

@@ -6,7 +6,7 @@ import lombok.NoArgsConstructor;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
-@Document(collection = "en")
+@Document(collection = "#{T(org.bits.fsad.quiz.util.CollectionNameHolder).get()}")
 @Data
 @NoArgsConstructor
 @AllArgsConstructor

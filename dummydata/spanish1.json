@@ -1,0 +1,14 @@
+{
+  "options": [
+    "vidrio",
+    "tubo",
+    "reloj",
+    "sofá"
+  ],
+  "active": true,
+  "language": "es",
+  "subcategory": "vocabulario",
+  "level": "alto",
+  "correctOptionIndex": 4,
+  "questionText": "¿Cuál es el sinónimo de sofá?"
+}

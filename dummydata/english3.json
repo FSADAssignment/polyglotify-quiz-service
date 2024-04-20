@@ -1,0 +1,14 @@
+{
+  "options": [
+    "glas3",
+    "pipe3",
+    "clock3",
+    "sofa3"
+  ],
+  "active": true,
+  "language": "en",
+  "subcategory": "vocab",
+  "level": "high",
+  "correctOptionIndex": 4,
+  "questionText": "what is the synonym of couch3"
+}
