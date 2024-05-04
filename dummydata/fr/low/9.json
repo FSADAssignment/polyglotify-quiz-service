@@ -1,0 +1,9 @@
+{
+  "options": ["chaud", "froid", "tiède", "gel"],
+  "active": true,
+  "language": "fr",
+  "subcategory": "vocab",
+  "level": "low",
+  "correctOptionIndex": 2,
+  "questionText": "Quel mot décrit une température entre chaud et froid?"
+}

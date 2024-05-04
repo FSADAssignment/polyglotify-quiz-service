@@ -1,0 +1,9 @@
+{
+  "options": ["hot", "cold", "warm", "freezing"],
+  "active": true,
+  "language": "en",
+  "subcategory": "vocab",
+  "level": "medium",
+  "correctOptionIndex": 3,
+  "questionText": "Which word describes the lowest temperature?"
+}

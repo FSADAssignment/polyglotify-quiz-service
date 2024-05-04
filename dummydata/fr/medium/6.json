@@ -1,0 +1,9 @@
+{
+  "options": ["légume", "fruit", "viande", "poisson"],
+  "active": true,
+  "language": "fr",
+  "subcategory": "vocab",
+  "level": "medium",
+  "correctOptionIndex": 1,
+  "questionText": "Qu'est-ce que le kiwi?"
+}

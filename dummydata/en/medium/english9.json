@@ -1,0 +1,9 @@
+{
+  "options": ["insect", "bird", "mammal", "reptile"],
+  "active": true,
+  "language": "en",
+  "subcategory": "vocab",
+  "level": "medium",
+  "correctOptionIndex": 2,
+  "questionText": "What category does a lion belong to?"
+}

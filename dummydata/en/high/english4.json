@@ -1,0 +1,9 @@
+{
+  "options": ["pulley", "lever", "screw", "wheel"],
+  "active": true,
+  "language": "en",
+  "subcategory": "vocab",
+  "level": "high",
+  "correctOptionIndex": 2,
+  "questionText": "Which simple machine is a fastener with a helical thread?"
+}

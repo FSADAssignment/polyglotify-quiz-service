@@ -1,0 +1,9 @@
+{
+  "options": ["selle", "rêne", "mors", "étrier"],
+  "active": true,
+  "language": "fr",
+  "subcategory": "vocab",
+  "level": "high",
+  "correctOptionIndex": 1,
+  "questionText": "Quelle partie du bridon d'un cheval contrôle la direction?"
+}

@@ -1,0 +1,9 @@
+{
+  "options": ["night", "day", "morning", "evening"],
+  "active": true,
+  "language": "en",
+  "subcategory": "vocab",
+  "level": "low",
+  "correctOptionIndex": 1,
+  "questionText": "What is the opposite of night?"
+}

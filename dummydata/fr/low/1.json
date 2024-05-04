@@ -1,0 +1,9 @@
+{
+  "options": ["verre", "chaise", "table", "canapé"],
+  "active": true,
+  "language": "fr",
+  "subcategory": "vocab",
+  "level": "low",
+  "correctOptionIndex": 3,
+  "questionText": "Quel est le synonyme de sofa?"
+}

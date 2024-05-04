@@ -1,0 +1,9 @@
+{
+  "options": ["photography", "painting", "sculpture", "drawing"],
+  "active": true,
+  "language": "en",
+  "subcategory": "vocab",
+  "level": "high",
+  "correctOptionIndex": 3,
+  "questionText": "What art form involves making marks on paper with a pencil or pen?"
+}

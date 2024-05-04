@@ -1,0 +1,9 @@
+{
+  "options": ["hiver", "printemps", "été", "automne"],
+  "active": true,
+  "language": "fr",
+  "subcategory": "vocab",
+  "level": "medium",
+  "correctOptionIndex": 1,
+  "questionText": "Quelle saison vient après l'hiver?"
+}

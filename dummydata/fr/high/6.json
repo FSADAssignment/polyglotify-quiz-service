@@ -1,0 +1,9 @@
+{
+  "options": ["kilogramme", "livre", "gramme", "once"],
+  "active": true,
+  "language": "fr",
+  "subcategory": "vocab",
+  "level": "high",
+  "correctOptionIndex": 0,
+  "questionText": "Quelle unité de mesure est approximativement égale à 2,2 livres?"
+}

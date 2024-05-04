@@ -1,0 +1,9 @@
+{
+  "options": ["telescope", "microscope", "periscope", "kaleidoscope"],
+  "active": true,
+  "language": "en",
+  "subcategory": "vocab",
+  "level": "high",
+  "correctOptionIndex": 2,
+  "questionText": "Which instrument is used to view objects above the surface of water?"
+}

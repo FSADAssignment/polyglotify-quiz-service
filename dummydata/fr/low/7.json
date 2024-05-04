@@ -1,0 +1,9 @@
+{
+  "options": ["chat", "chien", "oiseau", "poisson"],
+  "active": true,
+  "language": "fr",
+  "subcategory": "vocab",
+  "level": "low",
+  "correctOptionIndex": 0,
+  "questionText": "Quel animal dit 'miaou'?"
+}

@@ -1,0 +1,9 @@
+{
+  "options": ["caliente", "frío", "tibio", "hielo"],
+  "active": true,
+  "language": "es",
+  "subcategory": "vocab",
+  "level": "low",
+  "correctOptionIndex": 2,
+  "questionText": "¿Qué palabra describe una temperatura entre caliente y frío?"
+}

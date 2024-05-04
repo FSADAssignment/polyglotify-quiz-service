@@ -1,0 +1,9 @@
+{
+  "options": ["oil", "acrylic", "watercolor", "pastel"],
+  "active": true,
+  "language": "en",
+  "subcategory": "vocab",
+  "level": "high",
+  "correctOptionIndex": 0,
+  "questionText": "Which type of paint dries slowly and is made from pigment suspended in oil?"
+}

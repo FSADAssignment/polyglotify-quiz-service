@@ -1,0 +1,9 @@
+{
+  "options": ["arbre", "fleur", "herbe", "plante"],
+  "active": true,
+  "language": "fr",
+  "subcategory": "vocab",
+  "level": "medium",
+  "correctOptionIndex": 0,
+  "questionText": "Qu'est-ce qui pousse dans le sol et a des branches?"
+}

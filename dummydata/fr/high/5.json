@@ -1,0 +1,9 @@
+{
+  "options": ["photographie", "peinture", "sculpture", "dessin"],
+  "active": true,
+  "language": "fr",
+  "subcategory": "vocab",
+  "level": "high",
+  "correctOptionIndex": 3,
+  "questionText": "Quel art consiste à faire des marques sur du papier avec un crayon ou un stylo?"
+}

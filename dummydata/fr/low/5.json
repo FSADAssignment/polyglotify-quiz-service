@@ -1,0 +1,9 @@
+{
+  "options": ["cercle", "triangle", "carré", "rectangle"],
+  "active": true,
+  "language": "fr",
+  "subcategory": "vocab",
+  "level": "low",
+  "correctOptionIndex": 2,
+  "questionText": "Quelle forme a quatre côtés égaux?"
+}

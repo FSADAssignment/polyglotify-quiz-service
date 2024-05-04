@@ -1,0 +1,9 @@
+{
+  "options": ["beaucoup", "peu", "rien", "tout"],
+  "active": true,
+  "language": "fr",
+  "subcategory": "vocab",
+  "level": "medium",
+  "correctOptionIndex": 3,
+  "questionText": "Quel mot signifie la totalité de quelque chose?"
+}

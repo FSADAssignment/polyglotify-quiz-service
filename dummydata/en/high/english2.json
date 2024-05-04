@@ -1,0 +1,9 @@
+{
+  "options": ["saddle", "rein", "bit", "stirrup"],
+  "active": true,
+  "language": "en",
+  "subcategory": "vocab",
+  "level": "high",
+  "correctOptionIndex": 1,
+  "questionText": "What part of a horse's bridle controls direction?"
+}

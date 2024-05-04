@@ -1,0 +1,9 @@
+{
+  "options": ["dormir", "comer", "correr", "jugar"],
+  "active": true,
+  "language": "es",
+  "subcategory": "vocab",
+  "level": "medium",
+  "correctOptionIndex": 1,
+  "questionText": "¿Qué actividad haces para saciar el hambre?"
+}

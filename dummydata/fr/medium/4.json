@@ -1,0 +1,9 @@
+{
+  "options": ["musique", "danse", "peinture", "sculpture"],
+  "active": true,
+  "language": "fr",
+  "subcategory": "vocab",
+  "level": "medium",
+  "correctOptionIndex": 2,
+  "questionText": "Quel est l'art de créer des images en utilisant des couleurs sur une surface?"
+}

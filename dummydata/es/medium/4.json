@@ -1,0 +1,9 @@
+{
+  "options": ["música", "baile", "pintura", "escultura"],
+  "active": true,
+  "language": "es",
+  "subcategory": "vocab",
+  "level": "medium",
+  "correctOptionIndex": 2,
+  "questionText": "¿Cuál es el arte de crear imágenes utilizando colores en una superficie?"
+}

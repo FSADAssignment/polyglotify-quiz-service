@@ -1,0 +1,9 @@
+{
+  "options": ["planet", "star", "moon", "sun"],
+  "active": true,
+  "language": "en",
+  "subcategory": "vocab",
+  "level": "medium",
+  "correctOptionIndex": 3,
+  "questionText": "What is the center of our solar system?"
+}

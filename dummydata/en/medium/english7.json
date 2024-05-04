@@ -1,0 +1,9 @@
+{
+  "options": ["triangle", "circle", "square", "rectangle"],
+  "active": true,
+  "language": "en",
+  "subcategory": "vocab",
+  "level": "medium",
+  "correctOptionIndex": 2,
+  "questionText": "Which shape has four equal sides and four right angles?"
+}

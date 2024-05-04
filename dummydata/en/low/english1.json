@@ -1,0 +1,9 @@
+{
+  "options": ["glass", "chair", "table", "couch"],
+  "active": true,
+  "language": "en",
+  "subcategory": "vocab",
+  "level": "low",
+  "correctOptionIndex": 3,
+  "questionText": "What is the synonym of sofa?"
+}

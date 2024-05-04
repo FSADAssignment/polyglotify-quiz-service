@@ -1,0 +1,9 @@
+{
+  "options": ["circle", "triangle", "square", "rectangle"],
+  "active": true,
+  "language": "en",
+  "subcategory": "vocab",
+  "level": "low",
+  "correctOptionIndex": 2,
+  "questionText": "Which shape has four equal sides?"
+}

@@ -1,0 +1,9 @@
+{
+  "options": ["cat", "dog", "bird", "fish"],
+  "active": true,
+  "language": "en",
+  "subcategory": "vocab",
+  "level": "low",
+  "correctOptionIndex": 0,
+  "questionText": "What animal says 'meow'?"
+}

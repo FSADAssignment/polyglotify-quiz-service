@@ -1,0 +1,9 @@
+{
+  "options": ["correr", "caminar", "saltar", "sentarse"],
+  "active": true,
+  "language": "es",
+  "subcategory": "vocab",
+  "level": "low",
+  "correctOptionIndex": 1,
+  "questionText": "¿Qué palabra significa moverse a pie a un ritmo lento?"
+}

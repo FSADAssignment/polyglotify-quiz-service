@@ -1,0 +1,9 @@
+{
+  "options": ["grande", "pequeño", "alto", "corto"],
+  "active": true,
+  "language": "es",
+  "subcategory": "vocab",
+  "level": "low",
+  "correctOptionIndex": 1,
+  "questionText": "¿Cuál es el opuesto de grande?"
+}

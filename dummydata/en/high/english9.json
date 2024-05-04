@@ -1,0 +1,9 @@
+{
+  "options": ["frost", "fog", "dew", "haze"],
+  "active": true,
+  "language": "en",
+  "subcategory": "vocab",
+  "level": "high",
+  "correctOptionIndex": 2,
+  "questionText": "What is formed when water vapor condenses on cool surfaces overnight?"
+}

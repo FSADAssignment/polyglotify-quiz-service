@@ -1,0 +1,9 @@
+{
+  "options": ["feliz", "triste", "enojado", "emocionado"],
+  "active": true,
+  "language": "es",
+  "subcategory": "vocab",
+  "level": "low",
+  "correctOptionIndex": 0,
+  "questionText": "¿Cuál es el antónimo de triste?"
+}

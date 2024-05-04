@@ -1,0 +1,9 @@
+{
+  "options": ["bacteria", "virus", "parasite", "fungus"],
+  "active": true,
+  "language": "en",
+  "subcategory": "vocab",
+  "level": "high",
+  "correctOptionIndex": 3,
+  "questionText": "What type of organism is yeast?"
+}

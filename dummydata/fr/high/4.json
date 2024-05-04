@@ -1,0 +1,9 @@
+{
+  "options": ["poulie", "levier", "vis", "roue"],
+  "active": true,
+  "language": "fr",
+  "subcategory": "vocab",
+  "level": "high",
+  "correctOptionIndex": 2,
+  "questionText": "Quelle machine simple est un élément de fixation avec un filetage hélicoïdal?"
+}

@@ -1,0 +1,9 @@
+{
+  "options": ["nube", "lluvia", "viento", "nieve"],
+  "active": true,
+  "language": "es",
+  "subcategory": "vocab",
+  "level": "high",
+  "correctOptionIndex": 1,
+  "questionText": "¿Qué fenómeno meteorológico es una precipitación?"
+}

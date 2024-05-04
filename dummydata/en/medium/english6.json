@@ -1,0 +1,9 @@
+{
+  "options": ["book", "magazine", "newspaper", "internet"],
+  "active": true,
+  "language": "en",
+  "subcategory": "vocab",
+  "level": "medium",
+  "correctOptionIndex": 0,
+  "questionText": "Where can you find stories and information to read?"
+}

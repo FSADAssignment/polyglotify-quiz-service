@@ -1,0 +1,9 @@
+{
+  "options": ["heureux", "triste", "en colère", "excité"],
+  "active": true,
+  "language": "fr",
+  "subcategory": "vocab",
+  "level": "low",
+  "correctOptionIndex": 0,
+  "questionText": "Quel est l'antonyme de triste?"
+}

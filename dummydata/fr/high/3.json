@@ -1,0 +1,9 @@
+{
+  "options": ["noyau", "proton", "électron", "neutron"],
+  "active": true,
+  "language": "fr",
+  "subcategory": "vocab",
+  "level": "high",
+  "correctOptionIndex": 0,
+  "questionText": "Comment s'appelle le centre d'un atome?"
+}

@@ -1,0 +1,9 @@
+{
+  "options": ["círculo", "triángulo", "cuadrado", "rectángulo"],
+  "active": true,
+  "language": "es",
+  "subcategory": "vocab",
+  "level": "low",
+  "correctOptionIndex": 2,
+  "questionText": "¿Qué forma tiene cuatro lados iguales?"
+}

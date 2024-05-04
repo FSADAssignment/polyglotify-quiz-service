@@ -1,0 +1,9 @@
+{
+  "options": ["poesía", "novela", "ensayo", "biografía"],
+  "active": true,
+  "language": "es",
+  "subcategory": "vocab",
+  "level": "high",
+  "correctOptionIndex": 2,
+  "questionText": "¿Qué forma de escritura es una exploración profunda de un tema específico?"
+}

@@ -1,0 +1,9 @@
+{
+  "options": ["agua", "fuego", "aire", "tierra"],
+  "active": true,
+  "language": "es",
+  "subcategory": "vocab",
+  "level": "high",
+  "correctOptionIndex": 0,
+  "questionText": "¿Cuál de los siguientes elementos es un compuesto?"
+}

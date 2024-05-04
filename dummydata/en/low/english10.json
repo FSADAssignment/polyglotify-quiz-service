@@ -1,0 +1,9 @@
+{
+  "options": ["book", "pen", "pencil", "ruler"],
+  "active": true,
+  "language": "en",
+  "subcategory": "vocab",
+  "level": "low",
+  "correctOptionIndex": 0,
+  "questionText": "What is used to read stories?"
+}

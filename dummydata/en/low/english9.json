@@ -1,0 +1,9 @@
+{
+  "options": ["hot", "cold", "warm", "freezing"],
+  "active": true,
+  "language": "en",
+  "subcategory": "vocab",
+  "level": "low",
+  "correctOptionIndex": 2,
+  "questionText": "Which word describes a temperature between hot and cold?"
+}

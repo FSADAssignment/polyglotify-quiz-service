@@ -1,0 +1,9 @@
+{
+  "options": ["télescope", "microscope", "périscope", "kaléidoscope"],
+  "active": true,
+  "language": "fr",
+  "subcategory": "vocab",
+  "level": "high",
+  "correctOptionIndex": 2,
+  "questionText": "Quel instrument est utilisé pour voir les objets au-dessus de la surface de l'eau?"
+}

@@ -1,0 +1,9 @@
+{
+  "options": ["planète", "étoile", "lune", "soleil"],
+  "active": true,
+  "language": "fr",
+  "subcategory": "vocab",
+  "level": "medium",
+  "correctOptionIndex": 0,
+  "questionText": "Quel corps céleste orbite autour du soleil?"
+}

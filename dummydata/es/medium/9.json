@@ -1,0 +1,9 @@
+{
+  "options": ["invierno", "verano", "primavera", "otoño"],
+  "active": true,
+  "language": "es",
+  "subcategory": "vocab",
+  "level": "medium",
+  "correctOptionIndex": 2,
+  "questionText": "¿Qué estación sigue al invierno?"
+}

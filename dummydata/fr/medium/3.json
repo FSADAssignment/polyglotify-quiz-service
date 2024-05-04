@@ -1,0 +1,9 @@
+{
+  "options": ["chaud", "froid", "tiède", "gel"],
+  "active": true,
+  "language": "fr",
+  "subcategory": "vocab",
+  "level": "medium",
+  "correctOptionIndex": 3,
+  "questionText": "Quel mot décrit la température la plus basse?"
+}

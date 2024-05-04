@@ -1,0 +1,9 @@
+{
+  "options": ["rouge", "bleu", "vert", "jaune"],
+  "active": true,
+  "language": "fr",
+  "subcategory": "vocab",
+  "level": "low",
+  "correctOptionIndex": 3,
+  "questionText": "Quelle couleur est souvent associée au soleil?"
+}

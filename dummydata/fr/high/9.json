@@ -1,0 +1,9 @@
+{
+  "options": ["givre", "brouillard", "rosée", "brume"],
+  "active": true,
+  "language": "fr",
+  "subcategory": "vocab",
+  "level": "high",
+  "correctOptionIndex": 2,
+  "questionText": "Qu'est-ce qui se forme lorsque la vapeur d'eau se condense sur des surfaces froides pendant la nuit?"
+}

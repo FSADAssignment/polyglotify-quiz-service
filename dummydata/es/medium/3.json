@@ -1,0 +1,9 @@
+{
+  "options": ["caliente", "frío", "tibio", "hielo"],
+  "active": true,
+  "language": "es",
+  "subcategory": "vocab",
+  "level": "medium",
+  "correctOptionIndex": 3,
+  "questionText": "¿Qué palabra describe la temperatura más baja?"
+}

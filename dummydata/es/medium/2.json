@@ -1,0 +1,9 @@
+{
+  "options": ["manzana", "plátano", "naranja", "uva"],
+  "active": true,
+  "language": "es",
+  "subcategory": "vocab",
+  "level": "medium",
+  "correctOptionIndex": 1,
+  "questionText": "¿Cómo se llama la fruta larga y curvada?"
+}

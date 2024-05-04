@@ -1,0 +1,9 @@
+{
+  "options": ["apple", "banana", "orange", "grape"],
+  "active": true,
+  "language": "en",
+  "subcategory": "vocab",
+  "level": "medium",
+  "correctOptionIndex": 1,
+  "questionText": "What is the name of the long curved fruit?"
+}

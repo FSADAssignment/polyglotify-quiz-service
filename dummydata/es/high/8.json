@@ -1,0 +1,9 @@
+{
+  "options": ["Atlántico", "Pacífico", "Índico", "Ártico"],
+  "active": true,
+  "language": "es",
+  "subcategory": "vocab",
+  "level": "high",
+  "correctOptionIndex": 1,
+  "questionText": "¿Cuál de estos océanos es el más grande?"
+}

@@ -1,0 +1,9 @@
+{
+  "options": ["eau", "terre", "feu", "air"],
+  "active": true,
+  "language": "fr",
+  "subcategory": "vocab",
+  "level": "medium",
+  "correctOptionIndex": 0,
+  "questionText": "Quel élément est nécessaire à la vie?"
+}

@@ -1,0 +1,9 @@
+{
+  "options": ["rain", "snow", "hail", "sleet"],
+  "active": true,
+  "language": "en",
+  "subcategory": "vocab",
+  "level": "medium",
+  "correctOptionIndex": 0,
+  "questionText": "What falls from the sky in drops when it's cloudy?"
+}

@@ -1,0 +1,9 @@
+{
+  "options": ["courir", "marcher", "sauter", "s'asseoir"],
+  "active": true,
+  "language": "fr",
+  "subcategory": "vocab",
+  "level": "low",
+  "correctOptionIndex": 1,
+  "questionText": "Quel mot signifie se déplacer à pied à un rythme lent?"
+}

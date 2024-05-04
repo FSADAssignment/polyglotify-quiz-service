@@ -1,0 +1,9 @@
+{
+  "options": ["amarillo", "azul", "rojo", "verde"],
+  "active": true,
+  "language": "es",
+  "subcategory": "vocab",
+  "level": "medium",
+  "correctOptionIndex": 1,
+  "questionText": "¿Qué color tiene el cielo en un día soleado?"
+}

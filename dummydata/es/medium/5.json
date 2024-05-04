@@ -1,0 +1,9 @@
+{
+  "options": ["planeta", "estrella", "luna", "sol"],
+  "active": true,
+  "language": "es",
+  "subcategory": "vocab",
+  "level": "medium",
+  "correctOptionIndex": 3,
+  "questionText": "¿Qué objeto brilla durante el día en el cielo?"
+}

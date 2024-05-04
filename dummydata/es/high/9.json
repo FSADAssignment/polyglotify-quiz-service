@@ -1,0 +1,9 @@
+{
+  "options": ["Marte", "Júpiter", "Saturno", "Plutón"],
+  "active": true,
+  "language": "es",
+  "subcategory": "vocab",
+  "level": "high",
+  "correctOptionIndex": 2,
+  "questionText": "¿Cuál de los siguientes planetas tiene anillos?"
+}

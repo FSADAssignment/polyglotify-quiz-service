@@ -1,0 +1,9 @@
+{
+  "options": ["voiture", "bateau", "avion", "train"],
+  "active": true,
+  "language": "fr",
+  "subcategory": "vocab",
+  "level": "medium",
+  "correctOptionIndex": 2,
+  "questionText": "Quel moyen de transport vole dans le ciel?"
+}

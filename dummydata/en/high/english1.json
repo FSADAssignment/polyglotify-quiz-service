@@ -1,0 +1,9 @@
+{
+  "options": ["chord", "string", "note", "rhythm"],
+  "active": true,
+  "language": "en",
+  "subcategory": "vocab",
+  "level": "high",
+  "correctOptionIndex": 3,
+  "questionText": "Which term refers to the pattern of beats in a piece of music?"
+}

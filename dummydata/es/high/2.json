@@ -1,0 +1,9 @@
+{
+  "options": ["plata", "oro", "cobre", "hierro"],
+  "active": true,
+  "language": "es",
+  "subcategory": "vocab",
+  "level": "high",
+  "correctOptionIndex": 1,
+  "questionText": "¿Cuál es un metal precioso?"
+}

@@ -1,0 +1,9 @@
+{
+  "options": ["red", "blue", "green", "yellow"],
+  "active": true,
+  "language": "en",
+  "subcategory": "vocab",
+  "level": "low",
+  "correctOptionIndex": 3,
+  "questionText": "Which color is often associated with sunshine?"
+}

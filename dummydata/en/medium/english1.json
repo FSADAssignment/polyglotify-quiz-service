@@ -1,0 +1,9 @@
+{
+  "options": ["car", "boat", "plane", "train"],
+  "active": true,
+  "language": "en",
+  "subcategory": "vocab",
+  "level": "medium",
+  "correctOptionIndex": 2,
+  "questionText": "Which mode of transportation flies in the sky?"
+}

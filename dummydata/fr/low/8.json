@@ -1,0 +1,9 @@
+{
+  "options": ["nuit", "jour", "matin", "soir"],
+  "active": true,
+  "language": "fr",
+  "subcategory": "vocab",
+  "level": "low",
+  "correctOptionIndex": 1,
+  "questionText": "Quel est l'opposé de nuit?"
+}

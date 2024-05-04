@@ -1,0 +1,9 @@
+{
+  "options": ["piano", "violín", "flauta", "guitarra"],
+  "active": true,
+  "language": "es",
+  "subcategory": "vocab",
+  "level": "high",
+  "correctOptionIndex": 3,
+  "questionText": "¿Cuál de estos instrumentos se toca con las manos?"
+}

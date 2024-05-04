@@ -1,0 +1,9 @@
+{
+  "options": ["pomme", "banane", "orange", "raisin"],
+  "active": true,
+  "language": "fr",
+  "subcategory": "vocab",
+  "level": "medium",
+  "correctOptionIndex": 1,
+  "questionText": "Comment s'appelle le fruit long et courbé?"
+}

@@ -1,0 +1,9 @@
+{
+  "options": ["pelota", "raqueta", "guante", "baloncesto"],
+  "active": true,
+  "language": "es",
+  "subcategory": "vocab",
+  "level": "medium",
+  "correctOptionIndex": 0,
+  "questionText": "¿Qué se usa para jugar al fútbol?"
+}

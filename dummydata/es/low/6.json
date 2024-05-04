@@ -1,0 +1,9 @@
+{
+  "options": ["rojo", "azul", "verde", "amarillo"],
+  "active": true,
+  "language": "es",
+  "subcategory": "vocab",
+  "level": "low",
+  "correctOptionIndex": 3,
+  "questionText": "¿De qué color se asocia a menudo con el sol?"
+}

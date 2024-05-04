@@ -1,0 +1,9 @@
+{
+  "options": ["chanson", "musique", "partition", "rythme"],
+  "active": true,
+  "language": "fr",
+  "subcategory": "vocab",
+  "level": "high",
+  "correctOptionIndex": 3,
+  "questionText": "Quel terme désigne le motif de battements dans une pièce de musique?"
+}

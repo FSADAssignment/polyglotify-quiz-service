@@ -1,0 +1,9 @@
+{
+  "options": ["happy", "sad", "angry", "excited"],
+  "active": true,
+  "language": "en",
+  "subcategory": "vocab",
+  "level": "low",
+  "correctOptionIndex": 0,
+  "questionText": "What is the antonym of sad?"
+}

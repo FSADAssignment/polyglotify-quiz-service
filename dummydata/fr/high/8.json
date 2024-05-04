@@ -1,0 +1,9 @@
+{
+  "options": ["huile", "acrylique", "aquarelle", "pastel"],
+  "active": true,
+  "language": "fr",
+  "subcategory": "vocab",
+  "level": "high",
+  "correctOptionIndex": 0,
+  "questionText": "Quel type de peinture sèche lentement et est fabriqué à partir de pigments suspendus dans de l'huile?"
+}

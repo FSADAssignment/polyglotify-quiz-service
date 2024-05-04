@@ -1,0 +1,9 @@
+{
+  "options": ["trabajo", "escuela", "casa", "parque"],
+  "active": true,
+  "language": "es",
+  "subcategory": "vocab",
+  "level": "medium",
+  "correctOptionIndex": 0,
+  "questionText": "¿Dónde van las personas para ganar dinero?"
+}

@@ -1,0 +1,9 @@
+{
+  "options": ["ocean", "river", "lake", "pond"],
+  "active": true,
+  "language": "en",
+  "subcategory": "vocab",
+  "level": "medium",
+  "correctOptionIndex": 0,
+  "questionText": "What is a large body of saltwater that covers most of the Earth's surface?"
+}
