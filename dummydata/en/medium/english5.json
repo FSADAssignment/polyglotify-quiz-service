@@ -1,4 +1,5 @@
 {
+  "_id": ObjectId(),
   "options": ["planet", "star", "moon", "sun"],
   "active": true,
   "language": "en",

@@ -1,4 +1,5 @@
 {
+  "_id": ObjectId(),
   "options": ["eau", "terre", "feu", "air"],
   "active": true,
   "language": "fr",

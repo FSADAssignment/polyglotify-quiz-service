@@ -1,4 +1,5 @@
 {
+  "_id": ObjectId(),
   "options": ["légume", "fruit", "viande", "poisson"],
   "active": true,
   "language": "fr",
