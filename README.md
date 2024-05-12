@@ -12,5 +12,5 @@ Once confirmed
 browse http://localhost:8081/ it should open mongo express UI connected to mongodb
 - manually create quiz database
 - create three collection en,es,fr
-- add document from dummy folder in respective collection
+- add test document from dummy folder in respective collection
 - to shutdown container use _**docker compose down**_
